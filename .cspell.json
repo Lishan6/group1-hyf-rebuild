@@ -14,10 +14,7 @@
     "Christiaan",
     "Verwijs",
     "Todos",
-    "wireframe",
-    "Seddouki",
-    "Etefa",
-    "Lishan"
+    "wireframe"
   ],
   "ignorePaths": [
     "node_modules/**",
