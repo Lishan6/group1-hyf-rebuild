@@ -18,6 +18,10 @@
     "Seddouki",
     "Etefa",
     "Lishan"
+    "Mykhailo",
+    "Lishan",
+    "Seddouki",
+    "Etefa"
   ],
   "ignorePaths": [
     "node_modules/**",
