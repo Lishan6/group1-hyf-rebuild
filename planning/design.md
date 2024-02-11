@@ -2,15 +2,29 @@
 
 ## Project's design overview
 
-In this present project, we aim to create a website that offers free trainings to a variety of people from colorful cultural backgrounds. The trainings are varied in length and kinds. There are namely two types of trainings: 5 months and 8 months trainings. The 8-month program is for candidates who seek to become full-stack developers. And the 5-month program is for candidates who long to either become front-end or back-end developers.
+Our current project aims to create a cutting-edge website that offers free,
+top-tier training programs to individuals from diverse cultural backgrounds. Our
+programs are tailored to suit individuals with varying levels of experience, and
+we provide both 5-month and 8-month training programs. The 5-month program is
+ideal for individuals who want to become front-end or back-end developers, while
+the 8-month program is designed for those who wish to become full-stack
+developers.
 
-Thus, basically, we will have to design a website with a navigation section that contains tabs that includes: program details, volunteer, about, recruit, blog, support us, why become a partner?, and FAQ. In body, there will be the main title under which nested three inline sections: who are we?, the program and the goal.
+To achieve our goal, we are designing a highly functional website with a
+navigation section that features intuitive tabs for program details,
+volunteering, about us, recruitment, blog, support, partnering opportunities,
+and FAQs. Our website's main body will feature three inline sections: Who we
+are, the program, and the goal.
 
-Right below it, another section that showcases our partners and sponsors.
+We will showcase our partners and sponsors, and provide testimonials from former
+students sharing their experiences. Additionally, we will encourage visitors to
+subscribe to our newsletters and provide contact information in the footer for
+those interested in supporting, partnering, or volunteering with us.
 
-Also, another section that displays testimonies of various alumni in which they share their experiences.
-
-A section that suggests subscribing to our newsletters is included. And finally, in the footer: contact us, support, partnership and volunteer are added.
+Our mission is to create a dynamic platform that fosters innovation, growth, and
+success for individuals from all walks of life. We are committed to providing
+unparalleled training programs and resources that will help our students achieve
+their goals and realize their full potential.
 
 ## Wireframe(s)
 
