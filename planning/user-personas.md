@@ -46,7 +46,7 @@
 
 ---
 
-# User Personas
+## User Personas
 
 <!-- some introduction -->
 
@@ -114,7 +114,7 @@ content and communication strategies.
 
 ## A partner company manager Tasha
 
-- - **Bio**: Female, 42 years old, administrator of an IT industry that support
+- **Bio**: Female, 42 years old, administrator of an IT industry that support
     hyfb.
 - **Needs/Goals**: Representing the company, she wanted to check on the website
   of hyfb for more photographs of students, materials such as computer and
