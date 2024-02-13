@@ -65,7 +65,7 @@ content and communication strategies.
 - **Bio**: Female, 26 years old, prospective student interested to apply to hyfb
   to learn coding and website development.
 - **Needs/Goals**: She needed additional information about the programs given by
-  the school, applicaiton requirments and other information.
+  the school, applicaiton, requirments and other information.
 - **Frustrations**: She did not get response quickly to her email to the school
   or she couldn't find telephone number on the website to call.
 - **Scenario 1**: She decided to register and start her study at other
@@ -80,7 +80,7 @@ content and communication strategies.
   recorded during the class and uploaded to youtube.
 - **Frustrations**: He doesn't know the exact title of the video to search in
   youtube and the youtube account of hyfb is not there on the website to find
-  the video quicly.
+  the video quickly .
 - **Scenario 1**: Other students helped him to find the video on youtube.
 
 ---
@@ -91,7 +91,7 @@ content and communication strategies.
 - **Needs/Goals**: She reviewed the website of hyfb to check if the necessary
   information is contained in the web page.
 - **Frustrations**: Missing contents such as hyfb alumni, detail profiles of
-  menotrs and coaches, the values of the school and others have frustrated her.
+  mentors and coaches, the values of the school and others have frustrated her.
 - **Scenario 1**: She talked with the administrators of the school and suggested
   to redesign the web page in short time.
 
@@ -115,13 +115,13 @@ content and communication strategies.
 ## A partner company manager Tasha
 
 - **Bio**: Female, 42 years old, administrator of an IT industry that support
-    hyfb.
+  hyfb.
 - **Needs/Goals**: Representing the company, she wanted to check on the website
   of hyfb for more photographs of students, materials such as computer and
   classroom facilities that could indicate the supports by partners.
 - **Frustrations**: The presence of only few photo galleries didn't help her
   much to understand the impact of supporting hyfb program just by visiting the
-  wesite.
+  website.
 - **Scenario 1**: She put her comments via email to hyfb administrator to add
   some pictures on the web site.
 
