@@ -1,1 +1,27 @@
 @import url("./something.css");
+
+.logo {
+  width: 18vw;
+  box-shadow: var(--shadow-1);
+}
+
+.logo img {
+  width: 5.1rem;
+}
+
+.navbar {
+  width: 65vw;
+  box-shadow: var(--shadow-1);
+}
+
+.nav-item:hover {
+  box-shadow: var(--shadow-1);
+}
+
+.nav-link {
+  color: var(--grey-500);
+}
+
+.nav-link:hover {
+  color: var(--grey-700);
+}
