@@ -21,6 +21,8 @@ innovation and growth.
 - Menu-bar
 
   As a user, I want to see vividly the menu bar
+  as a user , i want to use from different  devices
+  as a user needs to be able to comment on the HYFB website
 
 - Website's home picture
 
@@ -57,3 +59,14 @@ innovation and growth.
 - Social Media links
 
   As a user, I want to see social media links in the footer
+  
+  - Language
+
+ as a  user i can easily switch between  different languages in the app
+  settings
+  
+  
+- Library
+
+  as a user ,i can access up-to-date documentation on the project so that
+  i can quickly familiarize myself with the system
